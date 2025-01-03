@@ -1,0 +1,5 @@
+Ветка demo и master отличаются только файлом human.txt
+
+В репозитоии два комита:
+1 - 'one_commit'
+2 - 'marges_branches'
